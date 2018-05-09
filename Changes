@@ -1,5 +1,9 @@
 Revision history for Perl extension BSD::Getfsent.
 
+0.18  2018-05-09  <schubiger@cpan.org>
+
+ - Merged development version to stable.
+
 0.17_01  2018-05-06  <schubiger@cpan.org>
 
  - Use the boolean pragma for true/false values.

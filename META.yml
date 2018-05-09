@@ -16,7 +16,7 @@ name: BSD-Getfsent
 provides:
   BSD::Getfsent:
     file: lib/BSD/Getfsent.pm
-    version: 0.17_01
+    version: '0.18'
 requires:
   Carp: '0'
   Exporter: '0'
@@ -25,5 +25,5 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/stsc/BSD-Getfsent
-version: 0.17_01
+version: '0.18'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
